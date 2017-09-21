@@ -2,6 +2,6 @@
 
 echo 'Hola mundo!<br/>';
 
-echo 'v 1.0.3';
+echo 'v 1.0.4';
 
 ?>
