@@ -1,7 +1,7 @@
 <?php
 
-echo 'Hola mundo!';
+echo 'Hola mundo!<br/>';
 
-echo 'v 1.0.0';
+echo 'v 1.0.1';
 
 ?>
